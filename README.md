@@ -12,19 +12,19 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
 - Embedded Systems: Arduino, ESP32, circuit design, IoT applications  
 
 🚀 **Projects**:  
-- **EnBluetooth Serial Terminal**: A Bluetooth terminal app enabling seamless communication with ESP devices.  
 - [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A CGPA/SGPA calculator with quiz features for university and polythecnic students
 - [Trip App](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A Trip Planner App
 
 - **IoT Projects**:  
-  - Controlling a light bulb using an ESP32  
-  - Fetching temperature data from an ESP32 and LM35 sensor and displaying it in a native or cross-platform Android app  
+  - Controlling a light bulb using an ESP32
+  - **EnBluetooth Serial Terminal**: A Bluetooth terminal app enabling seamless communication with ESP devices
+  - Fetching temperature data from an ESP32 and LM35 sensor and displaying it in a native and cross-platform Android app  
 🎓 **What I’m Exploring**:  
 - Advanced IoT systems and hardware integration  
 - Building efficient and scalable cross-platform apps with Flutter  
 
 📫 **Let’s Connect**:  
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulhakeem-eneye-127b93274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- [LinkedIn](https://www.linkedin.com/in/abdulhakeem-eneye-127b93274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
