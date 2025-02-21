@@ -21,7 +21,8 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
 
 🚀 **Projects**:  
 - [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
-- [Trip App](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A Trip Planner App  
+- [Trip App](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A Trip Planner App
+- E.T.C
 - **IoT Projects**:  
   - Controlling a light bulb using an ESP32  
   - **EnBluetooth Serial Terminal**: A Bluetooth terminal app enabling seamless communication with ESP devices  
