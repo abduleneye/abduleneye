@@ -8,9 +8,16 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
 - **Hardware Integration**: Arduino, ESP32, and other microcontrollers  
 
 🔧 **Skills & Tools**:  
-- Mobile Development: Android Studio, Retrofit, Dagger Hilt, Firebase  
-- Embedded Systems: Arduino, ESP32, circuit design, IoT applications  
-- Programming: Kotlin, Dart, C++  
+- **Mobile Development**:  
+  - Android Studio  
+  - Retrofit for API integration  
+  - Dagger Hilt for dependency injection  
+  - Firebase for real-time database, authentication, and analytics  
+  - Jetpack libraries: Navigation, Room, LiveData, ViewModel  
+  - Git for version control  
+- **Programming Languages**: Kotlin, Dart, C++  
+- **Embedded Systems**: Circuit design, IoT applications using Arduino and ESP32  
+ 
 
 🚀 **Projects**:  
 - [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
