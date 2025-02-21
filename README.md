@@ -10,15 +10,16 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
 🔧 **Skills & Tools**:  
 - Mobile Development: Android Studio, Retrofit, Dagger Hilt, Firebase  
 - Embedded Systems: Arduino, ESP32, circuit design, IoT applications  
+- Programming: Kotlin, Dart, C++  
 
 🚀 **Projects**:  
-- [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A CGPA/SGPA calculator with quiz features for university and polythecnic students
-- [Trip App](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A Trip Planner App
-
+- [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
+- [Trip App](https://github.com/abduleneye/CGPA-SGPA-QuizApp): A Trip Planner App  
 - **IoT Projects**:  
-  - Controlling a light bulb using an ESP32
-  - **EnBluetooth Serial Terminal**: A Bluetooth terminal app enabling seamless communication with ESP devices
+  - Controlling a light bulb using an ESP32  
+  - **EnBluetooth Serial Terminal**: A Bluetooth terminal app enabling seamless communication with ESP devices  
   - Fetching temperature data from an ESP32 and LM35 sensor and displaying it in a native and cross-platform Android app  
+
 🎓 **What I’m Exploring**:  
 - Advanced IoT systems and hardware integration  
 - Building efficient and scalable cross-platform apps with Flutter  
