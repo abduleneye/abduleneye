@@ -13,8 +13,12 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
   - Retrofit for API integration  
   - Dagger Hilt for dependency injection  
   - Firebase for real-time database, authentication, and analytics  
-  - Jetpack libraries: Navigation, Room, LiveData, ViewModel  
-  - Git for version control  
+  - Jetpack libraries: Navigation, Room,  ViewModel  
+  - Git for version control
+  - App deployment on google app store
+  - Design patterns: MVVM, MVI
+  - Clean architecture
+  - Google Admob integration
 - **Programming Languages**: Kotlin, Dart, C++  
 - **Embedded Systems**: Circuit design, IoT applications using Arduino and ESP32  
  
