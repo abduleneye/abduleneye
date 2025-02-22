@@ -20,7 +20,7 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
  
 
 🚀 **Projects**:  
-- [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
+- [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
 - [Trip App](https://github.com/abduleneye/TripApp): A Trip Planner App
 - E.T.C
 - **IoT Projects**:  
