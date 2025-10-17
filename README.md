@@ -25,7 +25,7 @@
 : AI model deployment and integration in mobile apps  
 : Computer vision (Pytorch)  
 : Real-time data classification and analytics  
-: Edge AI for embedded devices  
+
 
 ### ⚙️ Embedded Systems & IoT  
 : Arduino | ESP32  
