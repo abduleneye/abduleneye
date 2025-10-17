@@ -1,59 +1,79 @@
-# Welcome to My GitHub Profile! 👋  
+# 👋 Hey there, I'm Abdulhakeem Eneye  
 
-I’m a **Mechatronics Engineering student** at the **Federal University of Technology, Minna, Nigeria**, with a passion for combining **software and hardware** to create innovative solutions. I focus on **mobile app development**, **IoT**, and **embedded systems**, while continuously learning and growing in these fields.  
+🎓 **Mechatronics Engineering Graduate** from the **Federal University of Technology, Minna (FUTMinna), Nigeria**, passionate about building **intelligent systems** that combine **AI, IoT, and mobile technology**.  
 
-💻 **What I Work With**:  
-- **Native Android Development**: Kotlin, Jetpack Compose  
-- **Cross-Platform Apps**: Flutter (fairly new, but eager to grow)  
-- **Hardware Integration**: Arduino, ESP32, and other microcontrollers  
-
-🔧 **Skills & Tools**:  
-- **Mobile Development**:  
-  - Android Studio  
-  - Retrofit for API integration  
-  - Dagger Hilt for dependency injection  
-  - Firebase for real-time database, authentication, and analytics  
-  - Jetpack libraries: Navigation, Room,  ViewModel  
-  - Git for version control
-  - App deployment on google app store
-  - Design patterns: MVVM, MVI
-  - Clean architecture
-  - Google Admob integration
-- **Programming Languages**: Kotlin, Dart, C++  
-- **Embedded Systems**: Circuit design, IoT applications using Arduino and ESP32  
- 
-
-🚀 **Projects**:  
-- [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
-- [Trip App](https://github.com/abduleneye/TripApp): A Trip Planner App
-- [Soil Monitoring App](https://github.com/abduleneye/SoilApp): A smart soil monitoring app built with Kotlin and Jetpack Compose that visualizes real-time sensor data and AI insights from a ThingSpeak API for efficient soil analysis.
-- [Flutter to Figma Implementation](https://github.com/abduleneye/figma_implementations): A Flutter project focused on implementing Figma UI designs: currently featuring a fully built Crypto Wallet section.
-- E.T.C
-- **IoT Projects**:  
-  - Controlling a light bulb using an ESP32  
-  - **EnBluetooth Serial Terminal**: A Bluetooth terminal app enabling seamless communication with ESP devices  
-  - Fetching temperature data from an ESP32 and LM35 sensor and displaying it in a native and cross-platform Android app  
-
-🎓 **What I’m Exploring**:  
-- Advanced IoT systems and hardware integration  
-- Building efficient and scalable cross-platform apps with Flutter  
-
-📫 **Let’s Connect**:  
-- [LinkedIn](https://www.linkedin.com/in/abdulhakeem-eneye-127b93274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+💡 I develop **mobile apps**, **AI-integrated IoT systems**, and **embedded solutions** that connect the physical and digital worlds.  
 
 ---
 
-<!--
-**abduleneye/abduleneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack & Tools  
 
-Here are some ideas to get you started:
+### 📱 Mobile App Development  
+- **Native Android**: Kotlin + Jetpack Compose  
+- **Cross-Platform**: Flutter  
+- **Architecture**: MVVM | MVI | Clean Architecture  
+- **Libraries & Tools**:  
+  - Retrofit (API integration)  
+  - Dagger Hilt (dependency injection)  
+  - Firebase (Auth, Firestore, Analytics, Realtime DB)  
+  - Jetpack Navigation, Room, ViewModel  
+  - Google AdMob integration  
+  - Git & GitHub for version control  
+  - Android Studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 AI & Data Integration  
+- AI model deployment and integration in mobile apps  
+- Computer vision (PyTorch, TensorFlow Lite, OpenCV)  
+- Real-time data classification and analytics  
+- Edge AI for embedded devices  
+
+### ⚙️ Embedded Systems & IoT  
+- Arduino | ESP32  
+- Circuit design & hardware interfacing  
+- Sensor data collection and real-time monitoring  
+- Bluetooth & Wi-Fi communication with mobile apps  
+
+### 💬 Programming Languages  
+- Kotlin | Dart | Python | C++  
+
+---
+
+## 🚀 Featured Projects  
+
+### 📱 **Mobile Applications**  
+- [**EnQuiz GPA**](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX)  
+  🎓 A CGPA/SGPA calculator with quiz features tailored for university and polytechnic students.  
+
+- [**Trip App**](https://github.com/abduleneye/TripApp)  
+  🗺️ A trip planner app designed for travel organization and itinerary management.  
+
+- [**Soil Monitoring App**](https://github.com/abduleneye/SoilApp)  
+  🌱 A smart soil monitoring app built with Kotlin and Jetpack Compose that visualizes real-time sensor data and **AI insights** from a ThingSpeak API for efficient soil analysis.  
+
+- [**Flutter to Figma Implementation**](https://github.com/abduleneye/figma_implementations)  
+  🎨 A Flutter project implementing real-world Figma UI designs — currently featuring a fully built **Crypto Wallet** section.  
+
+---
+
+### 🤖 **AI + IoT Projects**  
+- 🐟 **AI-Powered Aquaculture System** – Real-time monitoring and classification of fish behavior using a mobile app and PyTorch model integration.  
+- 💡 **ESP32 Light Control** – Wireless control of electrical loads using a mobile app.  
+- 📡 **EnBluetooth Serial Terminal** – A Bluetooth terminal app for seamless communication with ESP devices.  
+- 🌡️ **Temperature Monitoring** – Real-time temperature tracking with ESP32 + LM35, displayed on both native and cross-platform apps.  
+
+---
+
+## 🌱 What I’m Exploring  
+- AI-driven automation in IoT  
+- Edge AI on ESP32 and mobile  
+- Scalable, production-ready Flutter applications  
+
+---
+
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulhakeem-eneye-127b93274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📧 **abdulhakeemene@gmail.com**  
+
+---
+
+> “Building smarter systems — where AI meets IoT and mobile innovation.” 🚀
