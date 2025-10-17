@@ -72,7 +72,7 @@
 
 ## 📫 Let’s Connect  
 : 💼 [LinkedIn](https://www.linkedin.com/in/abdulhakeem-eneye-127b93274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-: 📧 **abdulhakeemene@gmail.com**  
+: 📧 **abdulhakeemab15@gmail.com**  
 
 ---
 
