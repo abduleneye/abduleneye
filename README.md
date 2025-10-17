@@ -26,6 +26,7 @@ I’m a **Mechatronics Engineering student** at the **Federal University of Tech
 🚀 **Projects**:  
 - [EnQuiz GPA](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX): A CGPA/SGPA calculator with quiz features for university and Polytechnic students  
 - [Trip App](https://github.com/abduleneye/TripApp): A Trip Planner App
+- [Soil Monitoring App](https://github.com/abduleneye/SoilApp): A smart soil monitoring app built with Kotlin and Jetpack Compose that visualizes real-time sensor data and AI insights from a ThingSpeak API for efficient soil analysis.
 - E.T.C
 - **IoT Projects**:  
   - Controlling a light bulb using an ESP32  
