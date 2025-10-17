@@ -57,7 +57,7 @@
 
 ### 🤖 **AI + IoT Projects**  
 : 🐟 **AI-Powered Aquaculture System** – Real-time monitoring and classification of fish behavior using a mobile app and PyTorch model integration.  
-: 💡 **ESP32 Light Control** – Wireless control of electrical loads using a mobile app.  
+: 💡 **ESP32 Light Control** – Controlled an LED remotely via a mobile app and ESP32 over Wi-Fi.  
 : 📡 **EnBluetooth Serial Terminal** – A Bluetooth terminal app for seamless communication with ESP devices.  
 : 🌡️ **Temperature Monitoring** – Real-time temperature tracking with ESP32 + LM35, displayed on both native and cross-platform apps.  
 
