@@ -23,7 +23,7 @@
 
 ### 🧠 AI & Data Integration  
 : AI model deployment and integration in mobile apps  
-: Computer vision (PyTorch, TensorFlow Lite, OpenCV)  
+: Computer vision (Pytorch)  
 : Real-time data classification and analytics  
 : Edge AI for embedded devices  
 
