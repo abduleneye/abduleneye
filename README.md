@@ -39,8 +39,22 @@
 ---
 
 ## 🚀 Featured Projects  
-
+.  
+  
 ### 📱 **Mobile Applications**  
+
+:[**ChitChat – Flutter Multi-Module App**](https://github.com/abduleneye/chit_chat)  
+💬 A production-ready **Flutter application** featuring a **real-time chat system** and an **API-ready VTU (Virtual Top-Up) module**.  
+Built with **BLoC state management** and a **modular architecture** for scalable, maintainable, and production-grade mobile development.
+
+**Features:**  
+- 💬 Real-time chat (direct & group messaging)  
+- ⚡ VTU module for airtime and data purchases (API-ready)  
+- 🧱 Modular, feature-based project structure  
+- 🔄 Predictable and testable state management with **BLoC**  
+- 🎨 Modern and responsive UI design
+: [**Flutter to Figma Implementation**](https://github.com/abduleneye/figma_implementations)  
+  🎨 A Flutter project implementing real-world Figma UI designs — currently featuring a fully built **Crypto Wallet** section
 : [**EnQuiz GPA**](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX)  
   🎓 A CGPA/SGPA calculator with quiz features tailored for university and polytechnic students.  
 
@@ -50,8 +64,6 @@
 : [**Soil Monitoring App**](https://github.com/abduleneye/SoilApp)  
   🌱 A smart soil monitoring app built with Kotlin and Jetpack Compose that visualizes real-time sensor data and **AI insights** from a ThingSpeak API for efficient soil analysis.  
 
-: [**Flutter to Figma Implementation**](https://github.com/abduleneye/figma_implementations)  
-  🎨 A Flutter project implementing real-world Figma UI designs — currently featuring a fully built **Crypto Wallet** section.  
 
 ---
 
