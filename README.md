@@ -20,6 +20,7 @@
 ---
 
 ## 📊 GitHub Stats  
+![Profile Views](https://komarev.com/ghpvc/?username=abduleneye&color=blue&style=flat-square)
 
 ![Abdulhakeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduleneye&show_icons=true&count_private=true&hide=prs,issues,stars&hide_title=false&theme=tokyonight)  
 
