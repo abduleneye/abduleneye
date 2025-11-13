@@ -20,7 +20,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=abduleneye&color=blue&style=flat-square)
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=abduleneye&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/abduleneye/chit_chat?color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/abduleneye/chit_chat?color=orange" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/abduleneye/chit_chat?color=red" alt="Issues" />
+</p>
 
 ![Abdulhakeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduleneye&show_icons=true&count_private=true&hide=prs,issues,stars&hide_title=false&theme=tokyonight)  
 
