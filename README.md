@@ -75,8 +75,6 @@
   Kotlin + Jetpack Compose travel planner app.  
   **Features:**  
   - 🗺️ Trip creation & itinerary management  
-  - 🏨 Maps & location integration  
-  - 🔔 Trip reminders  
   - 🎨 Smooth Compose UI  
 
 - **[Soil Monitoring App](https://github.com/abduleneye/SoilApp)**  
