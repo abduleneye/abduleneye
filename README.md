@@ -113,9 +113,10 @@
 ---
 
 ## 📫 Let’s Connect  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulhakeem-eneye-127b93274)  
 - 📧 abdulhakeemab15@gmail.com  
-
+- 💻 [Upwork](https://www.upwork.com/freelancers/~014085f4823d463262)
 ---
 
 > “Building smarter systems — where AI meets IoT and mobile innovation.” 🚀
