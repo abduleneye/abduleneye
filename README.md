@@ -54,7 +54,8 @@ Built with **BLoC state management** and a **modular architecture** for scalable
 - 🔄 Predictable and testable state management with **BLoC**  
 - 🎨 Modern and responsive UI design
 : [**Flutter to Figma Implementation**](https://github.com/abduleneye/figma_implementations)  
-  🎨 A Flutter project implementing real-world Figma UI designs — currently featuring a fully built **Crypto Wallet** section
+  🎨 A Flutter project implementing real-world Figma UI designs — currently featuring a fully built **Crypto Wallet section**
+  
 : [**EnQuiz GPA**](https://github.com/abduleneye/CGPA-SGPA-QuizApp/tree/addingCGPA_QUIZ_and_IMPROVING_UI/UX)  
   🎓 A CGPA/SGPA calculator with quiz features tailored for university and polytechnic students.  
 
