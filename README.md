@@ -83,7 +83,7 @@
   - 🗺️ Trip creation & itinerary management  
   - 🎨 Smooth Compose UI  
 
-- **[Soil Monitoring App](https://github.com/abduleneye/SoilApp)**  
+- **[Soil Health Monitoring App](https://github.com/abduleneye/SoilApp)**  
   Kotlin + Jetpack Compose smart soil monitoring app with **AI insights**.  
   **Features:**  
   - 🌱 Real-time soil monitoring  
